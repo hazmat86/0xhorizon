@@ -24,7 +24,7 @@ At the early levels we will off the clients exactly what they need or sometimes 
 <hr>
 
 ### Basic Summary
-
+The program is going to be written in go and will consist of a server that holds holds the clients data, keeps all records, etc... and a client that will most likely be an app that is on their phone, or we may install Termux and have it run as a background that will send all the data to the server without any user interaction.
 
 
 
